@@ -19,8 +19,8 @@ spec:
         app: myweb
     spec:
       containers:
-      - name: user-api 
-        image: user-api-image
+      - name: myweb 
+        image: 873563726923.dkr.ecr.ap-northeast-2.amazonaws.com/tea4testecr:latest
         
 
 ---
