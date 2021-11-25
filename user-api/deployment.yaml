@@ -20,9 +20,8 @@ spec:
     spec:
       containers:
       - name: myweb 
-        image: 873563726923.dkr.ecr.ap-northeast-2.amazonaws.com/tea4testecr:81
-        ports:
-          -containerPort: 80
+        image: 873563726923.dkr.ecr.ap-northeast-2.amazonaws.com/tea4testecr:85
+
         
 
 ---
